@@ -1,25 +1,23 @@
 # Emily Plunkett
 ##### (613) 791 0410
 
-## Professional highlights
-* Graduate of Algonquin College journalism diploma program (class of 2013); completed courses in video/broadcast journalism, social media, web design, photography
-* Six week internship with 1310News (Ottawa all-news radio station); created copy for broadcast, conducted interviews, reporting tasks.
-* 15 years of customer service experience
+## Education
+* Graduate of Algonquin College journalism program (class of 2013); completed courses in video/broadcast journalism, social media, web design, photography
+* Six-week internship with 1310News (Ottawa all-news radio); created copy for broadcast, conducted interviews, reporting tasks
 
 ## Skill highlights
 * Professional writing
 	* press releases, articles for print, blogs, broadcast script writing
-	* versed in Canadian Press style
 	* proofreading and fact checking
-* Social Media (Twitter, Facebook, Tumblr)
 * Software
 	* Photoshop, Illustrator
 	* WordPress, Dreamweaver, InDesign
-	* Burli Newsroom System
 	* Audition, Premiere
+	* Burli Newsroom System
 * Programming
-	* Currently learning HTML/CSS, Javascript, and Ruby
-* Photography (equip)
+	* Currently learning HTML/CSS, Javascript, git
+* Social Media (Twitter, Facebook, Tumblr)
+* Photography (Nikon D3100, Nikkor 70-300mm lens, Nikkor 17-35mm lens, Nikon SB-400 Speed Flash)
 
 ## Work Experience
 
@@ -44,3 +42,8 @@
 * Special event coverage, concert and stage photography; covering 2012 Juno Awards
 * Covering city council, court reporting
 * Took amazing photographs chosen for front page and feature layouts
+
+### Other work experience
+* 15 years of customer service and sales experience, working in retail and call centres
+* Optical assistant
+* Active volunteer with area festivals, theatre
