@@ -21,16 +21,6 @@ Colors guide:
 	
 */
 
-@font-face {
-	font-family: "Spicy Rice";
-	src: url("fonts/spicy-rice.woff");
-}
-
-@font-face {
-	font-family: "Cambay";
-	src: url("fonts/cambay.woff");
-}
-
 /*body*/
 
 body {
